@@ -55,6 +55,12 @@ img {
 	max-width: 600px;
 	margin: auto;
 }
+.neon {
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue, 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue;
+}
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 300%;
